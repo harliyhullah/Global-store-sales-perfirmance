@@ -137,7 +137,7 @@ To maintain growth and drive profit:
 - Address regional underperformance  
 - Align sales team metrics with business goals
 
-# Connect With Me
+## Connect With Me
 -  **[LinkedIn - Alliyu Ajagun](https://www.linkedin.com/in/alliyuajagun)**  
 - **[Email](ajagunalliyu@gmail.com)**
 
