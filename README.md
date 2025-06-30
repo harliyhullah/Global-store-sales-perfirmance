@@ -1,7 +1,7 @@
 # Global-store-sales-performance
 Interactive Power BI dashboard analyzing global retail sales performance (2014–2017) with insights on regions, products, and sales teams.
 
-![](global-sales-dashboard-cover.jpg)
+![](frontpage.jpeg)
 
 # Table of Contents
 - [ Project Overview](#-project-overview)
@@ -50,7 +50,7 @@ This analysis followed a 5-step methodology:
    - Delivered actionable recommendations for growth
 
 Tool Used: Power BI  
-Cleaning Tool: Power Query Editor  
+Cleaning Tool: Excel and Power Query Editor  
 Analysis Focus: Sales, Profitability, Team Performance, Regional & Product Insights
 
 # Data Visualization
@@ -67,7 +67,7 @@ Preview of how the dataset was explored and cleaned in Power BI:
   ![](DatarelationshipinPowerBI.png)
 
 - **DAX Measures & KPIs**  
-  ![](M.easuresusingDAX.png)
+  ![](MeasuresusingDAX.png)
 
 - **Fact Table Preview**  
   ![](DateTableonPowerBI.png)
@@ -80,7 +80,7 @@ Preview of how the dataset was explored and cleaned in Power BI:
 ![](Reportpage2.png)
 
 ###  Report on Power BI Interface 
-![](PowerBIInterfaceOverview.png)
+![](PowerBIIinterfaceOverview.png)
 
 ➡️ To view the live dashboard:  
 **[👉 CLICK HERE TO INTERACT](https://app.powerbi.com/view?r=eyJrIjoiNjFmNzQyY2UtMjNkMC00ZWQ1LWIxZTQtMzExYTBmM2Q5OTUwIiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)**
@@ -140,4 +140,7 @@ To maintain growth and drive profit:
 **Prepared by:**  
 **Alliyu Ajagun Aremu**  
 **IOTBTECH FELLOWSHIP, Data Analysis Track, Class of 2025**  
-**Date:** 27th June 2025
+**Date:** 23rd June 2025
+
+
+![](thankyou.jpeg)
