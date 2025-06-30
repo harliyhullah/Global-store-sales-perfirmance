@@ -135,7 +135,12 @@ This Power BI dashboard transforms sales data into actionable intelligence. The 
 To maintain growth and drive profit:
 - Focus on high-margin categories  
 - Address regional underperformance  
-- Align sales team metrics with business goals  
+- Align sales team metrics with business goals
+
+# Connect With Me
+-  **[LinkedIn - Alliyu Ajagun](https://www.linkedin.com/in/alliyuajagun)**  
+- **[Email](ajagunalliyu@gmail.com)**
+
 
 **Prepared by:**  
 **Alliyu Ajagun Aremu**  
