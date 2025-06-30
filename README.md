@@ -139,7 +139,7 @@ To maintain growth and drive profit:
 
 ## Connect With Me
 -  **[LinkedIn - Alliyu Ajagun](https://www.linkedin.com/in/alliyuajagun)**  
-- **[Email](ajagunalliyu@gmail.com)**
+- **[Email] ajagunalliyu@gmail.com (ajagunalliyu@gmail.com)**
 
 
 **Prepared by:**  
